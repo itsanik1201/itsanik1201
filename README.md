@@ -33,16 +33,7 @@ Here are some of the projects I've been working on:
 - **[Webnest](https://github.com/itsanik1201/webnest)**: A web development project focusing on HTML structures.
 
 ---
-
-### 📊 GitHub Stats
-<p align="center"><em>(My GitHub Stats)</em></p>
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeref-XXX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&text_color=ffffff&icon_color=7289DA" alt="zeref-xxx's top languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeref-XXX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7289DA&icon_color=7289DA" alt="zeref-xxx's stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeref-XXX&theme=tokyonight&hide_border=true&fire=7289DA&ring=7289DA&currStreakNum=ffffff" alt="zeref-xxx's streak" />
-</p>
+ 
 
 ---
 
