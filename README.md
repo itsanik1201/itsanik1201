@@ -39,8 +39,9 @@ Here are some of the projects I've been working on:
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn**: [Add your LinkedIn Link Here]
-- 📧 **Email**: [Add your Email Here]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/aniket-patel-40742728a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FaUKHza0Tvipl7efRnQ9sg%3D%3D
+- 📧 **Email**: mailofaniketpatel@gmail.com
+- 
 
 
 <!--
